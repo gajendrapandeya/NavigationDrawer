@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="virat">Virat</string>
+    <string name="virat_kohli">Virat Kohli</string>
+    <string name="kohli_virat_com">Kohli@virat.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent">Sent</string>
+    <string name="sub_items">Sub Items</string>
+    <string name="drafts">Drafts</string>
+    <string name="all_mails">All Mails</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="open_drawer">Open the drawer</string>
+    <string name="close_drawer">Close the  drawer</string>
+
+    <style name="open_drawer">Open the drawer</style>
+    <style name="close_drawer">Close the drawer</style>
+</resources>
